@@ -52,7 +52,7 @@ HackMatch is an innovative platform that transforms how hackathon participants f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hackmatch.git
+   git clone https://github.com/AkshatTh/HackMatch.git
    cd hackmatch
    ```
 
@@ -143,7 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Akshar** - Full Stack Developer & AI Engineer
+- **Akshat** - Full Stack Developer & AI Engineer
 - **Harshini** -  Full Stack Developer & AI Engineer
 
 ## �� Contact
